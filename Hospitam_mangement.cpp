@@ -246,8 +246,9 @@ public:
         cout<<" Programming Language     : C++ "<<"\n\n";
         cout<<" Aim                      : Simulation of the software used in Hospital"<<"\n\n";
         cout<< "**************Made by************** :"<<endl;
-        cout<<"1.RAFSUN JANI SHUVO"<< endl;
         cout<<"2.MIZANUR RAHMAN"<< endl;
+        cout<<"1.RAFSUN JANI SHUVO"<< endl;
+        
 
     }
 
